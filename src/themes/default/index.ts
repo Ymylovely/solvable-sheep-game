@@ -29,8 +29,8 @@ export const defaultSounds: Theme<DefaultSoundNames>['sounds'] = [
 ];
 
 export const defaultTheme: Theme<DefaultSoundNames> = {
-    title: '泡了个泡',
-    name: '泡泡真可爱',
+    title: '默认',
+    name: '默认',
     icons: icons.map((icon) => ({
         name: icon,
         content: icon,

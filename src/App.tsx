@@ -28,7 +28,7 @@ import Bmob from 'hydrogen-js-sdk';
 
 // 内置主题
 const builtInThemes: Theme<any>[] = [
-    // defaultTheme,
+    defaultTheme,
     fishermanTheme,
     // jinlunTheme,
     // ikunTheme,
