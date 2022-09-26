@@ -29,11 +29,11 @@ import Bmob from 'hydrogen-js-sdk';
 // 内置主题
 const builtInThemes: Theme<any>[] = [
     defaultTheme,
-    fishermanTheme,
-    jinlunTheme,
-    ikunTheme,
-    pddTheme,
-    owTheme,
+    // fishermanTheme,
+    // jinlunTheme,
+    // ikunTheme,
+    // pddTheme,
+    // owTheme,
 ];
 
 // 最大关卡
