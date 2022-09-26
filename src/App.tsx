@@ -31,7 +31,7 @@ const builtInThemes: Theme<any>[] = [
     // defaultTheme,
     fishermanTheme,
     // jinlunTheme,
-    ikunTheme,
+    // ikunTheme,
     // pddTheme,
     // owTheme,
 ];
