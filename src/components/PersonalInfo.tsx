@@ -8,7 +8,6 @@ export const PersonalInfo: FC = () => {
                 target="_blank"
                 rel="noreferrer"
             >
-                点个✨不迷路 @StreakingMan
                 <svg
                     width="16"
                     height="16"
